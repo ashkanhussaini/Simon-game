@@ -11,7 +11,7 @@ manipulation.
 
 ## Live Demo
 
-Add your deployed GitHub Pages URL here.
+https://ashkanhussaini.github.io/Simon-game/
 
 ## How to Play
 
@@ -55,7 +55,7 @@ Add your deployed GitHub Pages URL here.
 1.  Clone this repository:
 
     ``` bash
-    git clone <your-repository-url>
+    git clone https://github.com/ashkanhussaini/Simon-game
     ```
 
 2.  Open the project folder.
